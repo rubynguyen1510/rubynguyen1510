@@ -17,5 +17,5 @@ class Ruby_Nguyen:
 
 
 ### 🙊 A little laughter for you
-<img src= https://i.pinimg.com/1200x/fd/98/79/fd9879c07c649c0dcded5ef92b6a9c74.jpg  width="500px" height="500px">
+<img src= https://i.pinimg.com/1200x/fd/98/79/fd9879c07c649c0dcded5ef92b6a9c74.jpg  width="427.5px" height="358.5px">
 
