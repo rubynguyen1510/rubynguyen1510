@@ -12,8 +12,6 @@
 ```python
 class Ruby_Nguyen:
   def __init__(self):
-    self.class = 2025
-    self.school = "CSUF 🐘"
     self.pronouns = "she/her"
     self.hobbies = ["coding", "music", "books", "movies", "drawing"]
 
