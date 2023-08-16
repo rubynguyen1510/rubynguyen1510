@@ -1,6 +1,7 @@
 
 
-# Hello, welcome to Ruby's GitHub! <img src="https://thumbs.gfycat.com/RecklessEagerGraysquirrel-size_restricted.gif" width="100px" height="100px" alt="shiba">
+# Hello, welcome to Ngoc's GitHub! <img src="https://thumbs.gfycat.com/RecklessEagerGraysquirrel-size_restricted.gif" width="100px" height="100px" alt="shiba">
+***Fun fact: my name is pronounced as "knock".***
 <h3 align="center">Tech enthusiast and problem solver</h3>
 <p align="center">
 <a href="https://makers.appwrite.io/rubynguyen1510">
