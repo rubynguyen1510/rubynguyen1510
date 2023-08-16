@@ -5,7 +5,7 @@
 <h3 align="center">Tech enthusiast and problem solver</h3>
 <p align="center">
 <a href="https://appwrite.io/cards/makers/rubynguyen1510">
-    <img src="https://appwrite.io/cards/makers/rubynguyen1510" height="200px" alt="ruby's Maker Card" />
+    <img src="https://appwrite.io/cards/makers/rubynguyen1510" height="200px" alt="Ngoc's Maker Card" />
 </a>
 </p>
 
