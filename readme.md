@@ -18,7 +18,7 @@ class Ruby_Nguyen:
 
 ## Project lists:
 
-- App Write:
+- ## Appwrite:
 
   Tech Talk Video: https://showcase.codeday.org/project/clldi909k13313077xmyusf3hhnv
     
@@ -26,11 +26,11 @@ class Ruby_Nguyen:
     
   Pull request 2: https://github.com/open-runtimes/examples/pull/172
 
-- freeCodeCamp
+- ## freeCodeCamp
 
   Pull request (merged): https://github.com/freeCodeCamp/classroom/pull/248
   
-- Fig
+- ## Fig
 
   Pull request (merged): https://github.com/withfig/autocomplete/pull/1824
 
