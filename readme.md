@@ -9,7 +9,7 @@
 class Ruby_Nguyen:
   def __init__(self):
     self.pronouns = "she/her"
-    self.hobbies = ["coding"]
+    self.hobbies = ["coding", "exploring the world"]
 
 ```
 
