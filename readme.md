@@ -18,6 +18,9 @@ class Ruby_Nguyen:
 
 ## Project lists:
 
+- ## [Twine](https://twinery.org/)
+  Pull request: https://github.com/klembot/twinejs/pull/1493
+
 - ## [Appwrite](https://appwrite.io/)
 
   Tech Talk Video: https://showcase.codeday.org/project/clldi909k13313077xmyusf3hhnv
